@@ -1,3 +1,4 @@
+# This package contains up-to-date dependencies 
 # flutter_translate_gen
 
 [![pub package](https://img.shields.io/pub/v/flutter_translate_gen.svg?color=important)](https://pub.dev/packages/flutter_translate_gen)
